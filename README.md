@@ -11,6 +11,7 @@ Claude Skills are structured prompt modules that you can load into Claude Code t
 | Skill | Description |
 |---|---|
 | [project-instructions-writer](./Claude%20Skills/project-instructions-writer/) | Write and improve Claude Project Instructions for any domain |
+| [ai-prompt-writer](./Claude%20Skills/ai-prompt-writer/) | Write and optimize prompts for Claude, ChatGPT, Gemini, Midjourney, and more |
 
 ## Installation
 
